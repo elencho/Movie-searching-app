@@ -5,7 +5,7 @@ Movie searching app using API, DOM and other JS stuff
 Great exercise for beginners.
 
 ## See Demo
-
+https://elencho.github.io/Movie-searching-app/
 
 
 ## Credits:
